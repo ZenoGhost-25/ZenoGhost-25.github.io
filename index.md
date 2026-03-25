@@ -55,3 +55,14 @@ Les requins sont des poissons cartilagineux présents depuis plus de 400 million
     Télécharger le PDF
   </a>
 </div>
+
+<div class="info-section">
+  <img src="assets/images/requin.jpg" alt="Requin">
+
+  <div>
+    <h2>🦈 Les requins</h2>
+    <p>
+      Les requins sont des prédateurs marins fascinants présents depuis des millions d’années.
+    </p>
+  </div>
+</div>

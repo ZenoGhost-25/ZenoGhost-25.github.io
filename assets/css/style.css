@@ -84,3 +84,35 @@ footer {
 .btn-download:hover {
     background: #005fa3;
 }
+
+
+/* IMAGE SIMPLE */
+.image-section img {
+    width: 100%;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+/* SECTION IMAGE + TEXTE */
+.info-section {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.info-section img {
+    width: 300px;
+    border-radius: 12px;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.info-section img:hover {
+    transform: scale(1.05);
+}
+
+.info-section div {
+    flex: 1;
+}
